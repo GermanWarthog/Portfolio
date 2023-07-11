@@ -1,0 +1,8 @@
+:root, body {
+    /* fonts */
+    --font-code: "IBM Plex Mono";
+    --font-inter: 'Inter', sans-serif;
+
+    /* global background color */
+    background-color: black;
+}
